@@ -380,7 +380,7 @@ def prever_precos(caminho_arquivo_teste):
 
 
 if __name__ == "__main__":
-    arquivo_teste_exemplo = "../../treino.csv"
+    arquivo_teste_exemplo = "teste_publico.csv"
 
     print("--- Executando Validação Local do Pipeline ---")
 
